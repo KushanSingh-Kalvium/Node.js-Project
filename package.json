@@ -1,0 +1,25 @@
+{
+  "name": "my-node.js-project",
+  "version": "1.0.0",
+  "description": "In this assignment i created a new Node.js project, intialized Git, Install required packages, verify the installation, commit and pushed my code.",
+  "homepage": "https://github.com/KushanSingh-Kalvium/Node.js-Project#readme",
+  "bugs": {
+    "url": "https://github.com/KushanSingh-Kalvium/Node.js-Project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KushanSingh-Kalvium/Node.js-Project.git"
+  },
+  "license": "ISC",
+  "author": "Kushan Singh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.6"
+  }
+}
